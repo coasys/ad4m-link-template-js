@@ -1,0 +1,13 @@
+{
+  "name": "expression-dna-template-language",
+  "version": "1.0.0",
+  "description": "AD4M Expression Language template with DNA",
+  "main": "index.js",
+  "scripts": {
+    "build": "deno run --allow-all esbuild.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {},
+  "dependencies": {}
+}
